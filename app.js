@@ -8,6 +8,9 @@ const port = process.env.PORT;
 
 app.use(express.json());
 
+const noteRoutes = require('./routes/noteRoutes');
+app.use('/api/v1/notes', noteRoutes);
+
 connectDB()
     .then(() => {
         app.listen(port, () => {
