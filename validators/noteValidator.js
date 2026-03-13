@@ -1,10 +1,6 @@
-exports.createNoteValidator = (req, res, next) => {
-    const { title, content } = req.body;
+const joi = require('joi');
 
-    if (!title || !content) {
-        return res.status(400).json({ 
-            message: 'Title and content are required' 
-        });
-    }
-    next();
-};
+exports.createdNoteSchema = joi.object({
+    title: joi.string().required(),
+    description: joi.string().required(),
+})
