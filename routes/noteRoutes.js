@@ -1,10 +1,11 @@
 const express = require('express');
 const router = express.Router();
 const noteController = require('../controllers/noteController');    
+const { createNoteValidator } = require('../validators/noteValidator');
 
 router.route('/')
     .get(noteController.getItems)
-    .post(noteController.createItem);
+    .post(createNoteValidator, noteController.createItem);
 
 router.route('/:id')
     .get(noteController.getItemById)
