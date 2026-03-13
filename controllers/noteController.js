@@ -1,24 +1,25 @@
 const noteService = require('../services/noteService');
 const asyncHandler = require('../utils/asyncHandler');
+const { successResponse } = require('../utils/responseHandler');
 
 exports.createItem = asyncHandler(async(req, res) => {
         const note = await noteService.createItem(req.body);
-        res.status(201).json(note);
+        successResponse(res, note, "Note created successfully", 201);
 });
 
 exports.getItems = asyncHandler(async (req, res) => {
         const notes = await noteService.getItems();
-        res.status(200).json(notes);
+        successResponse(res, notes, "Notes retrieved successfully");
 });
 
 exports.getItemById = asyncHandler(async (req, res) => {
     const note = await noteService.getItemById(req.params.id);
-    res.status(200).json(note);
+    successResponse(res, note, "Note retrieved successfully");
 });
 
 exports.updateItem = asyncHandler(async (req, res) => {
     const note = await noteService.updateItem(req.params.id, req.body);
-    res.status(201).json(note);
+    successResponse(res, note, "Note updated successfully");
 });
    
 
