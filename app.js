@@ -1,16 +1,17 @@
 const express = require('express');
 const app = express();
-const dotenv = require('dotenv');
-dotenv.config();
+require('dotenv').config();
 const connectDB = require('./config/connection');
-const port = process.env.PORT;
 const logger = require('./middleware/logger');
+
+const helmet = require('helmet');
 
 const errorHandler = require('./middleware/errorHandler');
 const requestLogger = require('./middleware/logger');
 const limiter = require('./middleware/rateLimiter');
 
 app.use(express.json());
+app.use(helmet());
 app.use(errorHandler);
 app.use(requestLogger);
 app.use(limiter);
