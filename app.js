@@ -3,10 +3,12 @@ const app = express();
 const dotenv = require('dotenv');
 dotenv.config();
 const connectDB = require('./config/connection');
+const errorHandler = require('./middleware/errorHandler');
 
 const port = process.env.PORT;
 
 app.use(express.json());
+app.use(errorHandler);
 
 const noteRoutes = require('./routes/noteRoutes');
 app.use('/api/v1/notes', noteRoutes);
