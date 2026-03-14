@@ -1,6 +1,6 @@
 const noteService = require('../services/noteService');
 const asyncHandler = require('../utils/asyncHandler');
-const { successResponse } = require('../utils/responseHandler');
+const { successResponse } = require('../utils/responseFormatter');
 
 exports.createItem = asyncHandler(async(req, res) => {
         const note = await noteService.createItem(req.body);

@@ -2,12 +2,12 @@ const express = require('express');
 const app = express();
 require('dotenv').config();
 const connectDB = require('./config/connection');
-const logger = require('./middleware/logger');
+const logger = require('./utils/logger');
 
 const helmet = require('helmet');
 
 const errorHandler = require('./middleware/errorHandler');
-const requestLogger = require('./middleware/logger');
+const requestLogger = require('./middleware/requestLogger');
 const limiter = require('./middleware/rateLimiter');
 
 app.use(express.json());
