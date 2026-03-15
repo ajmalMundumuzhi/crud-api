@@ -15,3 +15,339 @@
 2026-03-14T10:09:16.326Z [ERROR]: mongo_uri is not defined
 2026-03-14T10:09:35.579Z [ERROR]: mongo_uri is not defined
 2026-03-14T10:09:43.961Z [ERROR]: mongo_uri is not defined
+2026-03-15T07:50:12.770Z [ERROR]: mongo_uri is not defined
+2026-03-15T07:50:12.790Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:13.009Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:13.162Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:13.492Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:14.027Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:14.944Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:16.660Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:18.678Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:20.878Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:22.930Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:25.027Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:27.210Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:29.245Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:31.407Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:33.540Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:35.625Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:37.652Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:39.827Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:42.023Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:44.071Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:46.183Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:48.216Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:50.391Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:52.490Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:54.570Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:56.617Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:50:58.683Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:00.857Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:02.971Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:05.163Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:07.324Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:09.356Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:11.488Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:13.693Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:15.741Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:17.836Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:19.985Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:22.145Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:24.235Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:26.407Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:28.536Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:30.652Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:32.795Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:34.835Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:36.961Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:39.129Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:41.207Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:43.230Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:45.301Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:47.316Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:49.382Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:51.418Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:53.466Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:55.534Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:57.736Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:51:59.878Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:01.967Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:03.980Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:06.076Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:08.181Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:10.345Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:12.535Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:14.602Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:16.685Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:18.727Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:20.918Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:23.008Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:25.134Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:27.156Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:29.198Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:31.294Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:33.407Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:35.596Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:37.710Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:39.862Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:41.908Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:44.007Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:46.062Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:48.220Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:50.394Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:52.476Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:54.507Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:56.694Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:52:58.871Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:01.019Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:03.055Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:05.219Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:07.360Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:09.441Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:11.540Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:13.637Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:15.699Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:17.723Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:19.778Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:21.832Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:23.937Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:25.960Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:28.096Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:30.281Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:32.465Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:34.652Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:36.765Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:38.814Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:40.935Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:43.052Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:45.118Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:47.285Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:49.384Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:51.413Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:53.456Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:55.468Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:57.668Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:53:59.855Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:02.063Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:07.606Z [ERROR]: mongo_uri is not defined
+2026-03-15T07:54:07.624Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:07.866Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:08.068Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:08.288Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:08.879Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:09.703Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:11.484Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:13.633Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:15.853Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:18.052Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:20.122Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:22.241Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:24.435Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:26.501Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:28.546Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:30.708Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:32.787Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:34.852Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:36.937Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:39.018Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:41.075Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:43.184Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:45.347Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:47.355Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:49.394Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:51.472Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:53.628Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:55.667Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:57.788Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:54:59.820Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:02.023Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:04.206Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:06.337Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:08.415Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:10.556Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:12.698Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:14.896Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:17.081Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:19.115Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:21.260Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:23.338Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:25.440Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:27.518Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:29.720Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:31.730Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:33.903Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:36.096Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:38.169Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:40.219Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:42.387Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:44.556Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:46.679Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:48.811Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:50.936Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:53.069Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:55.174Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:57.301Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:55:59.352Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:01.396Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:03.419Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:05.568Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:07.618Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:10.528Z [ERROR]: mongo_uri is not defined
+2026-03-15T07:56:10.540Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:10.648Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:10.849Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:11.231Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:11.768Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:12.631Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:14.418Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:26.067Z [ERROR]: mongo_uri is not defined
+2026-03-15T07:56:26.084Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:26.164Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:26.409Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:26.781Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:27.215Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:28.133Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:29.949Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:32.096Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:34.221Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:36.348Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:38.477Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:40.660Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:42.835Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:45.886Z [ERROR]: mongo_uri is not defined
+2026-03-15T07:56:45.903Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:45.978Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:46.251Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:46.614Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:47.096Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:47.961Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:49.580Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:51.761Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:53.840Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:55.893Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:56:57.976Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:00.010Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:02.026Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:09.964Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:10.086Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:10.377Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:10.605Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:11.107Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:12.104Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:13.867Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:17.978Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:18.137Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:18.304Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:18.663Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:19.272Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:20.185Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:21.846Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:23.956Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:25.990Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:28.119Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:30.224Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:40.094Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:40.232Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:40.403Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:40.794Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:41.354Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:42.232Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:43.922Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:46.139Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:48.270Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:50.365Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:52.390Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:54.596Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:56.717Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:57:58.784Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:00.831Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:02.991Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:05.003Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:07.183Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:09.326Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:10.223Z [INFO]: Server is running on port 3000
+2026-03-15T07:58:11.520Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:13.711Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:15.901Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:18.013Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:20.174Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:22.208Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:24.345Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:26.528Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:28.603Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:30.770Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:32.787Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:34.843Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:36.945Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:38.967Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:41.028Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:43.088Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:45.159Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:47.181Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:49.236Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:51.326Z [ERROR]: Redis Connection Error: 
+2026-03-15T07:58:53.512Z [ERROR]: Redis Connection Error: 
+2026-03-15T08:01:35.488Z [INFO]: Redis Connected Successfully
+2026-03-15T08:02:05.652Z [INFO]: Server is running on port 3000
+2026-03-15T08:03:18.311Z [INFO]: Redis Connected Successfully
+2026-03-15T08:03:27.084Z [INFO]: Redis Connected Successfully
+2026-03-15T08:04:13.760Z [INFO]: Redis Connected Successfully
+2026-03-15T08:04:43.859Z [INFO]: Server is running on port 3000
+2026-03-15T08:06:32.966Z [INFO]: Redis Connected Successfully
+2026-03-15T08:06:33.848Z [INFO]: Server is running on port 3000
+2026-03-15T08:13:10.899Z [INFO]: Redis Connected Successfully
+2026-03-15T08:13:11.767Z [INFO]: Server is running on port 3000
+2026-03-15T08:17:23.268Z [INFO]: Redis Connected Successfully
+2026-03-15T08:17:24.224Z [INFO]: Server is running on port 3000
+2026-03-15T08:17:48.275Z [INFO]: Redis Connected Successfully
+2026-03-15T08:17:48.973Z [INFO]: Server is running on port 3000
+2026-03-15T08:17:58.595Z [INFO]: Redis Connected Successfully
+2026-03-15T08:17:59.428Z [INFO]: Server is running on port 3000
+2026-03-15T08:18:29.434Z [INFO]: Redis Connected Successfully
+2026-03-15T08:18:30.142Z [INFO]: Server is running on port 3000
+2026-03-15T08:18:56.445Z [INFO]: Redis Connected Successfully
+2026-03-15T08:18:57.227Z [INFO]: Server is running on port 3000
+2026-03-15T08:19:09.774Z [INFO]: Redis Connected Successfully
+2026-03-15T08:19:10.359Z [INFO]: Server is running on port 3000
+2026-03-15T08:19:28.565Z [INFO]: Redis Connected Successfully
+2026-03-15T08:19:29.160Z [INFO]: Server is running on port 3000
+2026-03-15T08:19:32.963Z [INFO]: Redis Connected Successfully
+2026-03-15T08:19:33.738Z [INFO]: Server is running on port 3000
+2026-03-15T08:20:00.742Z [INFO]: Redis Connected Successfully
+2026-03-15T08:20:01.302Z [INFO]: Server is running on port 3000
+2026-03-15T08:20:20.079Z [INFO]: Redis Connected Successfully
+2026-03-15T08:20:20.730Z [INFO]: Server is running on port 3000
+2026-03-15T08:20:26.644Z [INFO]: Redis Connected Successfully
+2026-03-15T08:20:27.308Z [INFO]: Server is running on port 3000
+2026-03-15T08:20:55.156Z [INFO]: Redis Connected Successfully
+2026-03-15T08:20:56.079Z [INFO]: Server is running on port 3000
+2026-03-15T08:21:15.061Z [INFO]: Redis Connected Successfully
+2026-03-15T08:21:15.597Z [INFO]: Server is running on port 3000
+2026-03-15T08:21:22.280Z [INFO]: Redis Connected Successfully
+2026-03-15T08:21:22.904Z [INFO]: Server is running on port 3000
+2026-03-15T08:21:41.281Z [INFO]: Redis Connected Successfully
+2026-03-15T08:21:52.387Z [INFO]: Redis Connected Successfully
+2026-03-15T08:21:52.959Z [INFO]: Server is running on port 3000
+2026-03-15T08:22:03.990Z [INFO]: Redis Connected Successfully
+2026-03-15T08:22:04.748Z [INFO]: Server is running on port 3000
+2026-03-15T08:22:20.645Z [INFO]: Redis Connected Successfully
+2026-03-15T08:22:21.452Z [INFO]: Server is running on port 3000
+2026-03-15T08:22:27.497Z [INFO]: Redis Connected Successfully
+2026-03-15T08:22:28.064Z [INFO]: Server is running on port 3000
+2026-03-15T08:22:39.162Z [INFO]: Redis Connected Successfully
+2026-03-15T08:22:40.083Z [INFO]: Server is running on port 3000
+2026-03-15T08:22:57.844Z [INFO]: Redis Connected Successfully
+2026-03-15T08:22:58.425Z [INFO]: Server is running on port 3000
+2026-03-15T08:23:13.503Z [INFO]: Redis Connected Successfully
+2026-03-15T08:23:17.375Z [INFO]: Redis Connected Successfully
+2026-03-15T08:23:17.937Z [INFO]: Server is running on port 3000
+2026-03-15T08:26:10.619Z [INFO]: Redis Connected Successfully
+2026-03-15T08:26:11.616Z [INFO]: Server is running on port 3000
+2026-03-15T08:27:13.739Z [INFO]: Redis Connected Successfully
+2026-03-15T08:27:42.893Z [INFO]: Redis Connected Successfully
+2026-03-15T08:27:43.810Z [INFO]: Server is running on port 3000
+2026-03-15T08:28:01.833Z [INFO]: Redis Connected Successfully
+2026-03-15T08:28:02.769Z [INFO]: Server is running on port 3000
+2026-03-15T08:32:02.941Z [INFO]: Redis Connected Successfully
+2026-03-15T08:32:03.778Z [INFO]: Server is running on port 3000
