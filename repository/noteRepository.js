@@ -4,8 +4,12 @@ exports.createItem = async (data) => {
     return item.create(data);
 }
 
-exports.getItems = async (data) => {
-    return item.find(data);
+exports.getItems = async ({skip = 0, limit = 10}) => {
+    return item.find()
+        .skip(skip)
+        .limit(limit)
+        .sort({ createdAt: -1 })
+        .lean()
 }
 
 exports.getItemById = async (id) => {

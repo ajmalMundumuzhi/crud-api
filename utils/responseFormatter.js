@@ -1,4 +1,4 @@
-exports.successResponse = (req, data, message = "Success", statusCode = 200) => {
+exports.successResponse = (res, data, message = "Success", statusCode = 200) => {
     return res.status(statusCode).json({
         success: true,
         message,

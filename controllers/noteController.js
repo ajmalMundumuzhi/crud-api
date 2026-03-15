@@ -11,16 +11,23 @@ exports.createItem = asyncHandler(async(req, res) => {
 });
 
 exports.getItems = asyncHandler(async (req, res) => {
-        const cachedKey = "notes";
+        const page = parseInt(req.query.page) || 1;
+        const limit = parseInt(req.query.limit) || 10;
+
+        const skip = (page - 1) * limit;
+        const cachedKey = `notes:page:${page}:limit:${limit}`;
         const cachedNotes = await redisClient.get(cachedKey);
         if (cachedNotes) {
             Logger.info("Serving notes from Redis cache");
             return successResponse(res, JSON.parse(cachedNotes), "Notes retrieved successfully");
         }
 
-        const notes = await noteService.getItems();
+        const notes = await noteService.getItems({
+            skip, 
+            limit,
+        });
         await redisClient.set(cachedKey, JSON.stringify(notes), {
-            EX: 60,
+            EX: 30, 
         })
 
         Logger.info("Serving notes from MongoDB");

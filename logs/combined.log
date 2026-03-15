@@ -351,3 +351,94 @@
 2026-03-15T08:28:02.769Z [INFO]: Server is running on port 3000
 2026-03-15T08:32:02.941Z [INFO]: Redis Connected Successfully
 2026-03-15T08:32:03.778Z [INFO]: Server is running on port 3000
+2026-03-15T08:42:15.622Z [INFO]: Redis Connected Successfully
+2026-03-15T08:42:16.506Z [INFO]: Server is running on port 3000
+2026-03-15T09:35:27.487Z [INFO]: Redis Connected Successfully
+2026-03-15T09:35:28.388Z [INFO]: Server is running on port 3000
+2026-03-15T09:35:47.665Z [INFO]: Redis Connected Successfully
+2026-03-15T09:35:48.422Z [INFO]: Server is running on port 3000
+2026-03-15T09:37:01.414Z [INFO]: Redis Connected Successfully
+2026-03-15T09:37:02.192Z [INFO]: Server is running on port 3000
+2026-03-15T09:37:32.877Z [INFO]: Redis Connected Successfully
+2026-03-15T09:37:33.598Z [INFO]: Server is running on port 3000
+2026-03-15T09:37:46.514Z [INFO]: Redis Connected Successfully
+2026-03-15T09:37:47.195Z [INFO]: Server is running on port 3000
+2026-03-15T09:38:10.848Z [INFO]: Redis Connected Successfully
+2026-03-15T09:38:13.879Z [INFO]: Redis Connected Successfully
+2026-03-15T09:38:14.552Z [INFO]: Server is running on port 3000
+2026-03-15T09:38:19.528Z [INFO]: Redis Connected Successfully
+2026-03-15T09:38:20.217Z [INFO]: Server is running on port 3000
+2026-03-15T09:39:02.416Z [INFO]: Redis Connected Successfully
+2026-03-15T09:39:03.106Z [INFO]: Server is running on port 3000
+2026-03-15T09:39:09.028Z [INFO]: Redis Connected Successfully
+2026-03-15T09:39:09.749Z [INFO]: Server is running on port 3000
+2026-03-15T09:40:01.070Z [INFO]: Redis Connected Successfully
+2026-03-15T09:40:18.681Z [INFO]: Redis Connected Successfully
+2026-03-15T09:40:19.323Z [INFO]: Server is running on port 3000
+2026-03-15T09:40:30.061Z [INFO]: Redis Connected Successfully
+2026-03-15T09:40:30.652Z [INFO]: Server is running on port 3000
+2026-03-15T09:42:15.653Z [INFO]: Serving notes from MongoDB
+2026-03-15T09:43:14.127Z [INFO]: Redis Connected Successfully
+2026-03-15T09:43:14.843Z [INFO]: Server is running on port 3000
+2026-03-15T09:43:28.810Z [INFO]: Redis Connected Successfully
+2026-03-15T09:43:29.393Z [INFO]: Server is running on port 3000
+2026-03-15T09:43:41.381Z [INFO]: Redis Connected Successfully
+2026-03-15T09:44:13.425Z [INFO]: Redis Connected Successfully
+2026-03-15T09:44:14.097Z [INFO]: Server is running on port 3000
+2026-03-15T09:44:33.697Z [INFO]: Serving notes from MongoDB
+2026-03-15T09:45:10.699Z [INFO]: Redis Connected Successfully
+2026-03-15T09:45:11.349Z [INFO]: Server is running on port 3000
+2026-03-15T10:05:33.184Z [INFO]: Redis Connected Successfully
+2026-03-15T10:05:33.957Z [INFO]: Server is running on port 3000
+2026-03-15T10:06:13.949Z [INFO]: Redis Connected Successfully
+2026-03-15T10:06:14.659Z [INFO]: Server is running on port 3000
+2026-03-15T10:06:28.373Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:07:24.160Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:22:39.395Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:23:12.207Z [INFO]: Serving notes from Redis cache
+2026-03-15T10:23:29.936Z [INFO]: Serving notes from Redis cache
+2026-03-15T10:23:45.780Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:24:00.133Z [INFO]: Serving notes from Redis cache
+2026-03-15T10:24:55.869Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:25:25.305Z [INFO]: Serving notes from Redis cache
+2026-03-15T10:27:13.850Z [INFO]: Redis Connected Successfully
+2026-03-15T10:27:14.540Z [INFO]: Server is running on port 3000
+2026-03-15T10:27:24.077Z [INFO]: Redis Connected Successfully
+2026-03-15T10:27:24.699Z [INFO]: Server is running on port 3000
+2026-03-15T10:27:42.848Z [INFO]: Redis Connected Successfully
+2026-03-15T10:27:45.581Z [INFO]: Redis Connected Successfully
+2026-03-15T10:27:46.185Z [INFO]: Server is running on port 3000
+2026-03-15T10:27:52.874Z [INFO]: Redis Connected Successfully
+2026-03-15T10:27:59.718Z [INFO]: Redis Connected Successfully
+2026-03-15T10:28:00.257Z [INFO]: Server is running on port 3000
+2026-03-15T10:28:09.228Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:28:39.421Z [INFO]: Redis Connected Successfully
+2026-03-15T10:28:40.065Z [INFO]: Server is running on port 3000
+2026-03-15T10:28:42.011Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:29:08.085Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:30:21.333Z [INFO]: Redis Connected Successfully
+2026-03-15T10:30:22.027Z [INFO]: Server is running on port 3000
+2026-03-15T10:30:30.441Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:31:17.701Z [INFO]: Redis Connected Successfully
+2026-03-15T10:31:18.226Z [INFO]: Server is running on port 3000
+2026-03-15T10:31:22.238Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:39:34.253Z [INFO]: Redis Connected Successfully
+2026-03-15T10:39:34.965Z [INFO]: Server is running on port 3000
+2026-03-15T10:39:51.274Z [INFO]: Redis Connected Successfully
+2026-03-15T10:39:51.851Z [INFO]: Server is running on port 3000
+2026-03-15T10:40:38.208Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:41:08.920Z [INFO]: Redis Connected Successfully
+2026-03-15T10:41:09.669Z [INFO]: Server is running on port 3000
+2026-03-15T10:41:12.961Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:45:52.952Z [INFO]: Redis Connected Successfully
+2026-03-15T10:45:53.624Z [INFO]: Server is running on port 3000
+2026-03-15T10:46:08.590Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:46:16.424Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:46:22.833Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:46:51.113Z [INFO]: Redis Connected Successfully
+2026-03-15T10:46:51.629Z [INFO]: Server is running on port 3000
+2026-03-15T10:46:53.837Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:47:00.693Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:47:08.837Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:47:21.641Z [INFO]: Serving notes from MongoDB
+2026-03-15T10:47:30.687Z [INFO]: Serving notes from Redis cache

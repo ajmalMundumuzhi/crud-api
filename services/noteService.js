@@ -4,8 +4,11 @@ exports.createItem = async (data) => {
     return noteRepository.createItem(data);
 }
 
-exports.getItems = async (data) => {
-    return noteRepository.getItems(data);
+exports.getItems = async ({ skip, limit }) => {
+    return await noteRepository.getItems({
+        skip, 
+        limit,
+    });
 }
 
 exports.getItemById = async (id) => {
