@@ -3,10 +3,11 @@ const asyncHandler = require('../utils/asyncHandler');
 const { successResponse } = require('../utils/responseFormatter');
 const redisClient = require('../config/redis');
 const Logger = require('../utils/logger');
+const { invalidateCache } = require('../utils/cache');
 
 exports.createItem = asyncHandler(async(req, res) => {
         const note = await noteService.createItem(req.body);
-        await redisClient.del("notes");
+        await invalidateCache();
         successResponse(res, note, "Note created successfully", 201);
 });
 
@@ -14,24 +15,37 @@ exports.getItems = asyncHandler(async (req, res) => {
         const page = parseInt(req.query.page) || 1;
         const limit = parseInt(req.query.limit) || 10;
 
+        const { title, search } = req.query;
+
         const skip = (page - 1) * limit;
-        const cachedKey = `notes:page:${page}:limit:${limit}`;
+        const cachedKey = `notes:page:${page}:limit:${limit}:title:${title || ""}:search:${search || ""}`;
         const cachedNotes = await redisClient.get(cachedKey);
         if (cachedNotes) {
             Logger.info("Serving notes from Redis cache");
             return successResponse(res, JSON.parse(cachedNotes), "Notes retrieved successfully");
         }
 
-        const notes = await noteService.getItems({
+        const { notes, total } = await noteService.getItems({
             skip, 
             limit,
+            title,
+            search,
+            query: {},
         });
-        await redisClient.set(cachedKey, JSON.stringify(notes), {
-            EX: 30, 
+
+        const pagination = {
+            page,
+            limit,
+            totalItems: total,
+            totalPages: Math.ceil(total / limit),
+        }
+
+        await redisClient.set(cachedKey, JSON.stringify(notes, pagination), {
+            EX: 300, 
         })
 
         Logger.info("Serving notes from MongoDB");
-        successResponse(res, notes, "Notes retrieved successfully");
+        successResponse(res, notes, "Notes retrieved successfully", pagination);
 });
 
 exports.getItemById = asyncHandler(async (req, res) => {
@@ -53,7 +67,7 @@ exports.getItemById = asyncHandler(async (req, res) => {
 exports.updateItem = asyncHandler(async (req, res) => {
     const note = await noteService.updateItem(req.params.id, req.body);
 
-    await redisClient.del("notes");
+    await invalidateCache();
     await redisClient.del(`note:${req.params.id}`);
 
     successResponse(res, note, "Note updated successfully");
@@ -63,7 +77,7 @@ exports.updateItem = asyncHandler(async (req, res) => {
 exports.deleteItem = asyncHandler(async (req, res) => {
     await noteService.deleteItem(req.params.id);
 
-    await redisClient.del("notes");
+    await invalidateCache();
     await redisClient.del(`note:${req.params.id}`);
 
     res.status(204).json("Note deleted successfully");

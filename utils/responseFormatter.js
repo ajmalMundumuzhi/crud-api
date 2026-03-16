@@ -1,9 +1,14 @@
-exports.successResponse = (res, data, message = "Success", statusCode = 200) => {
-    return res.status(statusCode).json({
+exports.successResponse = (res, data, message = "Success", pagination ) => {
+    const response = {
         success: true,
         message,
         data
-    })
+    };
+    if (pagination) {
+        response.pagination = pagination;
+    }
+
+    return res.status(200).json(response);
 }
 
 exports.errorResponse = (res, message = "Error", statusCode = 500) => {
